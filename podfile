@@ -1,0 +1,11 @@
+platform :ios,'8.0'
+target 'TXIJKPlayerDemo' do
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'SDWebImage'
+pod 'ReactiveObjC'
+pod 'MBProgressHUD'
+pod 'JGProgressHUD', '~> 2.0.2'
+pod 'Bugly', '~> 2.5.0'
+pod 'Toast', '~> 4.0.0'
+end
